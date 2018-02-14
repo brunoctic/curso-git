@@ -6,5 +6,6 @@
     </head>    
 <body>
     <h1> ArquivoExemploRebase1</h1>
+    <h2> conflito </h2>
 </body>
 </html>
